@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**blendor/blendor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Blendor - I'm a creator & co-founder, coming from Maribor, SLO. 
 
-Here are some ideas to get you started:
+### Learn more about me 🙋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:
+  - building digital products at [Clover Labs](https://cloverlabs.io)
+
+- 🌱 I’m currently learning:
+  - programming: HTML, CSS, JS,
+  - Javascript framework: Svelte
+
+- 👯 I’m looking to collaborate on:
+  - building digital products,
+  - projects on the intersection of culture & technology.
+ 
+- 📫 How to reach me:
+  - [Twitter](https://twitter.com/blendorsefaj)
+  - [LinkedIn](https://www.linkedin.com/in/blendor/)  

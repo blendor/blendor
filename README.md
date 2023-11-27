@@ -8,7 +8,7 @@ My name is Blendor - I'm a creator & co-founder, coming from Maribor, SLO.
   - building digital products at [Clover Labs](https://cloverlabs.io)
 
 - 🌱 I’m currently learning:
-  - programming: HTML, CSS, JS,
+  - programming: HTML, CSS, JS, Golang
   - Javascript framework: Svelte
 
 - 👯 I’m looking to collaborate on:
